@@ -37,4 +37,7 @@ HTTP Port
 
 Client side & Server side
 
+Web server works?
 
+test.com Request -> Apache (0.0.0.0)
+test.com -> Respone Apache (0.0.0.0)
