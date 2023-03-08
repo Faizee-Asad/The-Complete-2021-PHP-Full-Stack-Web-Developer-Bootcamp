@@ -72,3 +72,18 @@ PHP OOP
 PHP MVC
 LARAVEL
 
+HTMl - Embedding resource on server
+
+TAG = <tag>Some Text</tag> (tag is the just opening/closing tag)
+ELEMENT = <p>Paragraph Element</p> (element is the complete things)
+
+Empty Element 
+
+<tag></tag>
+</ tag>
+</ br>
+
+ATTRIBUTE (properties) = <tag name="value">Some Text</tag>
+
+<a href="evil.com"> Visit here </a> href is the attribute.
+
