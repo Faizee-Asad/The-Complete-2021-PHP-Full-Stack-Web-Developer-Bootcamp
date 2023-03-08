@@ -41,3 +41,34 @@ Web server works?
 
 test.com Request -> Apache (0.0.0.0)
 test.com -> Respone Apache (0.0.0.0)
+
+List of web server : https://trends.builtwith.com/web-server
+
+Type of languages:
+
+Programing lang (compiler): c, c++ and java
+Scripting lang: php (interpreter), javascript, python and ruby
+Markup lang: html and xml 
+
+compiler like 1.java file you should not run directly (java 1.java), first compile and then run. (java use complier)
+interpreter like 1.php file you should directly run (php 1.php), without compile. (php use interpreter)
+
+What is Full Stack Developer means?
+
+FRONT END DEVELOPER + BACK END DEVELOPER = FULL STACK DEVELOPER.
+
+FRONTEND:
+HTML
+CSS
+JAVASCRIPT
+BOOTSTRAP
+JQUERY AND AJAX
+
+PHP BACKEND:
+PHP
+MYSQL
+WORDPRESS
+PHP OOP
+PHP MVC
+LARAVEL
+
