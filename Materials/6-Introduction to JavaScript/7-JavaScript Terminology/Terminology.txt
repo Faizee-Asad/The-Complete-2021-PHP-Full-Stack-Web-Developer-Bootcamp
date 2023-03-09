@@ -1,0 +1,37 @@
+JavaScript Terminology
+JavaScript Terminology
+
+
+These are the terms you need to know if you are a JavaScript Programmer.
+
+Semicolon (;) – Semicolor symbol is used to indicate the browser that line is finished.
+
+Brackets – [] – These are used to represent Arrays.
+
+Braces – { } – Flower brackets are used to define the scope like starting point and ending point and we write the code inside this block.
+
+Like starting of function and ending of a function.
+
+parantheses – () – Is used to call a function.
+
+Identifiers – are the name given to variables, functions, properties or object. Any thing you name it is identifier.
+
+Variable – Any identifier that stores a value.
+
+Operators – Special symbols that are used to perform some operation. Like Arithmetic operator + is used to add two numbers.
+
+Example : +, -, ++
+
+Expressions – They are variables or operators that resolves into something. a = 1 + 2 is an expression.
+
+a = 1 + 2; //Expression always evaluate to some other value.
+
+Statements – Group of commands to perform an action or could be a single statement. They end with ‘;’. Statement are meant to do some action.
+
+{
+
+y = sum(1, 2);
+
+alert(“value of y” + y);
+
+}
