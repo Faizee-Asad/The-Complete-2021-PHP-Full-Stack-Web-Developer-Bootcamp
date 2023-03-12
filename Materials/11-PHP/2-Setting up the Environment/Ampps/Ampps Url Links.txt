@@ -1,0 +1,18 @@
+Ampps Url Links
+Default MySQL root password is "mysql".
+
+To access localhost, visit url http://localhost. DocumentRoot is path/to/Ampps/www folder.
+
+To access AMPPS Enduser Panel, visit url http://localhost/ampps
+
+To access AMPPS Admin Panel, visit url, http://localhost/ampps-admin
+
+To access phpMyAdmin, visit url http://localhost/phpmyadmin
+
+To access SQLiteManager, visit url http://localhost/sqlite
+
+You can "Restore Default Configuration" files of Apache, PHP & MySQL from their respective Tabs in AMPPS Control Center. Note: Your previous configuration will be lost.
+
+You can change MySQL root password, visit url http://localhost/ampps/index.php?act=mysqlsettings. You can also refer this wiki.
+
+You can secure AMPPS Enduser/Admin Panel, visit url http://localhost/ampps/index.php?act=secure. You can also refer this wiki.
