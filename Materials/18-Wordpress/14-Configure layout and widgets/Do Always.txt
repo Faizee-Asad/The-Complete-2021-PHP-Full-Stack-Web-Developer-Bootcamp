@@ -1,0 +1,9 @@
+1. configure layout
+
+open post click customized (on top) > theme settings > site layout > change to content primary sidebar and secondary.
+
+2. configure widgets
+
+open post click title and click widgets > drap the fature post and drop in footer 3 > all categories > no of post 3 .
+
+edit as per requirements.

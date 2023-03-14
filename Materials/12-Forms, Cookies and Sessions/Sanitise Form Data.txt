@@ -1,0 +1,44 @@
+Sanitise Form Data
+Sanitization: The removal of anything from a value that does not meet a criteria, and return the
+
+data passed in, minus removed invalid character(s).
+
+Reference: Sanitization
+(https://www.php.net/manual/en/filter.examples.sanitization.php)
+
+
+Input data coming into your application from an outside source should be looked at from a perspective of distrust.
+
+Input data from the outside includes:
+
+user data via a form submit request
+
+one or more database stores
+
+web service requests
+
+any source not directly coded in your application
+
+FILTER_VALIDATE_EMAIL: Validates e-mail addresses (comment and whitespace folding are
+
+not supported)
+
+FILTER_SANITIZE_EMAIL: Removes all characters except letters, digits and !#$%&'*+-=?
+
+^_`{|}~@.[]
+
+
+
+Sample Code:
+
+$emailAddress = 't(es)t@example.com';
+
+if ( filter_var( $emailAddress, FILTER_VALIDATE_EMAIL )) {
+
+echo $emailAddress . ' seems legit . <br/>';
+
+} else {
+
+echo filter_var( $emailAddress, FILTER_SANITIZE_EMAIL);
+
+}

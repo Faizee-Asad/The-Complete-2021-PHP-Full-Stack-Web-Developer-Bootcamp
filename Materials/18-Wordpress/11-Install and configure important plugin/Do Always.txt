@@ -1,0 +1,23 @@
+1. configure akismet plugin
+
+1) activate the plugins
+2) click setup your akismet account
+3) get personal 
+4) singup and login
+4) akismet anti-spam settings
+5) Click on Manually enter an API key.
+6) Copy the API key from the email we sent you and paste it into the text field.
+7) Click the button labeled Connect with API key.
+
+2. Configure google reCAPTCHA
+
+1) activate the plugins
+2) click popup massage register your domain
+3) label > v3 > add domain 
+4) copy site and secret key and paste in plugin
+5) click save 
+
+different between v2 and v3. 
+v2 to validate captcha client side.
+v3 to validate captcha server side.
+

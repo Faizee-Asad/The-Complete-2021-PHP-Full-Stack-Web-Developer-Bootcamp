@@ -1,0 +1,40 @@
+1. Check you page speed.
+
+GTmetrix.com
+tools.pingdom.com
+
+2. change the site title and tagline
+
+wp-admin > settings > generals
+
+3. Create a Gravatar
+
+gravatar.com
+
+sigin with wordpress
+upload img 
+
+
+wp-admin > settings > discussion > avatar
+
+4. Change Permalinks
+
+wp-admin > settings > permalinks
+
+Custom Structure : /%category%/%postname%/ -- for blog
+
+5. Remove unwanted Plugins 
+
+My recommandation is delete all plugins.
+
+6. install important plugins
+
+Commnets Spam - Akismet Anti-Spam
+SEO - Yoast SEO
+Login Spam - Simple Google reCAPTCHA - michal Novak
+Contacts Forms - WPForms Lite - WPForms
+Cache - Autoptimize - Futta
+Cache - W3 Total Cache
+backup to DROPBOx - updraftplus
+
+7. check site performance

@@ -1,0 +1,29 @@
+1. Delete the unused theme
+
+wp-admin > Appearance > theme
+
+2. install Gensis & Eleven40 framewrok theme
+
+wp-admin > Appearance > theme > add new > upload 
+
+(already downloded)
+
+1) upload Gensis 
+2) upload Eleven40
+3) Activate Gensis (parent theme)
+4) Activate Eleven40 (child theme)
+
+3. Install the supported plugins for your theme
+
+cutomized Click .
+
+gensis help plugins for good user exprinces
+
+wp-admin > plugins > add New
+
+1) Genesis Simple Edits
+2) Simple Social Icons
+
+how to impelement the social icon.
+
+wp-admin > Appearance > Widgets > drag and drop. 

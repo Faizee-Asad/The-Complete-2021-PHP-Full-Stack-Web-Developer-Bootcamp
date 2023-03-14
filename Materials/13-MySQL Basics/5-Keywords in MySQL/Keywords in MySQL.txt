@@ -1,0 +1,28 @@
+Keywords in MySQL
+Commonly used Keywords in MySQL SQL Statements:
+
+SELECT
+
+INSERT
+
+UPDATE
+
+DELETE
+
+AS
+
+DROP
+
+DESC
+
+TABLE
+
+DATABASE
+
+WHERE
+
+ISNULL
+
+ORDER BY
+
+Complete list is found here from MySQL (https://dev.mysql.com/doc/refman/8.0/en/keywords.html#keywords-in-current-series)

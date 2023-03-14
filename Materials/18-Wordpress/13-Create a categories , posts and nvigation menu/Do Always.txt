@@ -1,0 +1,11 @@
+1. create categories
+
+wp-admin > posts > categories > add category.
+
+2. create a post
+
+wp-admin > posts > Add new > write post > change category.
+
+3. create a menu
+
+wp-admin > appearance > Menus > add menu and name > manage location and select top menu (top menu is the name of menu)

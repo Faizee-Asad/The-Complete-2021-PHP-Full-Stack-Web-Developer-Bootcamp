@@ -1,0 +1,16 @@
+Super Global
+Here are the PHP Superglobal arrays
+
+$_GET: Contains HTTP GET method-submitted data
+
+$_POST: Contains HTTP POST method-submitted data
+
+$_SERVER: Contains request header and web server variables
+
+$_SESSION: Contains session data
+
+$_FILES: Contains file data of files uploaded
+
+$_COOKIE: Contains cookie data submitted in request headers
+
+$_ENV: Contains environment data

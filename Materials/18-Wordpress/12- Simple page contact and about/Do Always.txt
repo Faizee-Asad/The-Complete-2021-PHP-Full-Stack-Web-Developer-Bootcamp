@@ -1,0 +1,11 @@
+1. Configure the contact from with plugin
+
+wp-admin > WPforms > form templetes > Simple contact form > change as per requirement > click save
+
+Implement:
+
+copy shortcode > pages > contact > edit and pate .
+
+2. create about page
+
+classic editor

@@ -1,0 +1,18 @@
+Database Best Practise
+Avoid duplicated data, normalize (define) as much as possible -- Not always possible, but should
+
+be the objective.
+
+Use a modeling/design tool designed for schema modeling -- Graphical representation
+
+Model the data store to mirror the domain model (define) as much as possible -- good design
+
+practice
+
+Avoid the wildcard select *, query the columns needed -- saves memory and is higher
+
+performance
+
+Qualify your tables with aliases especially with join queries -- more human readable
+
+Use a SQL management tool (MySQL workbench / PhpMyAdmin) to test queries
