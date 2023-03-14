@@ -3,6 +3,7 @@
 
 class Database
 {
+    //Define variables
     public $dbConnection;
     public $records;
 
