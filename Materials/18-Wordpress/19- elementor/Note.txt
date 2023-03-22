@@ -1,0 +1,22 @@
+WELCOME TO THE COURSE 
+Hello, and congratulations on taking the first step in becoming an expert in WordPress and Elementor. This document will be updated continuously so it is always up-to-date. Follow along in the course, and all of these links will make sense. I suggest you keep this Google Document up throughout the course and reference it anytime I mention a link in the course.
+
+
+Explore Elementor’s Website(https://elementor.com/).
+
+
+HOSTING & DOMAIN NAMES
+How to come up with a good domain name, from Google(https://domains.google/learn/how-to-come-up-with-a-good-domain-name/).
+Purchase Shared WordPress hosting from Bluehost(https://www.bluehost.com/).
+
+
+INSTALLING & USING WORDPRESS
+WordPress.org(https://wordpress.org/)
+First, WordPress powers about 40% of the internet, so there is clearly something going on here. It has a bunch of use cases and is used by:
+New Yorker(https://www.newyorker.com/), TechCrunch(https://techcrunch.com/), Katy Perry(https://www.katyperry.com/), The government of Sweden(https://sweden.se/), Usain Bolt(https://usainbolt.com/), Beyoncé, and even Snoop Dog(https://snoopdogg.com/)
+
+
+BECOMING AN ELEMENTOR EXPERT
+Download the free version of Elementor
+Download the course photos here so you can build the website in the course! You can also feel free to use your own photos and make your own portfolio site(https://drive.google.com/drive/folders/1ERLVRJSCoVx8gKaHRdi7uNNIOKD1JgYS).
+
